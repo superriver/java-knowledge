@@ -95,7 +95,7 @@
 
 四、重构架构数据流式
 详见如下图示分布：
-![avatar](https://upload-images.jianshu.io/upload_images/7831591-abd8bca78c22fb60.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+![avatar](https://upload-images.jianshu.io/upload_images/7831591-abd8bca78c22fb60.jpg?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
 重构前后对比
 
 
